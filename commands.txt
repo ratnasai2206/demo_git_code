@@ -3,17 +3,22 @@ GIT COMMANDS TO NOTICES
 
 1. git status
 
-2. git init
+2. git init --->used for git initilization
 
-3. git add .
+3. git add .  --->used to add all the files in the folder
 
-4. git commit -m "message"
+4. git commit -m "message"  --->used to save code
 
-5. git checkout (Branch Name)
+5. git checkout (Branch Name) --->used to swift branch
 
-6. git checkout -b (Branch Name)
+6. git checkout -b (Branch Name) --->if branch exist it will switch to that branch ,it not it will create branch 
+   with that name 
 
-7. git clone url
+7. git clone url  ---> to paste url 
 
+8. git pull origin (branch name)  ---> used to pull the code into github
 
+9. git push origin (branch name) --->used to push our code into github
+
+10. git branch branchname --->to create branch
 
