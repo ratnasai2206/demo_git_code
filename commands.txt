@@ -1,4 +1,7 @@
-1. git status --->for checking status
+
+GIT COMMANDS TO NOTICES
+
+1. git status
 
 2. git init --->used for git initilization
 
