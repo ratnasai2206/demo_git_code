@@ -5,3 +5,12 @@
 3. git add .
 
 4. git commit -m "message"
+
+5. git checkout (Branch Name)
+
+6. git checkout -b (Branch Name)
+
+7. git clone url
+
+
+
